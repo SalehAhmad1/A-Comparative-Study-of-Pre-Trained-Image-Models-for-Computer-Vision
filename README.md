@@ -1,0 +1,1 @@
+To study the report, of the computer vision models that were used for the experiment and how they performed, click -> [Link](https://github.com/SalehAhmad1/A-Comparative-Study-of-Pre-Trained-Image-Models-for-Computer-Vision/blob/main/Report.pdf)
